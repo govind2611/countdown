@@ -3,7 +3,7 @@
 
 This is a Simple Countdown Webpage which shows how much time is left for launching our webpage.
 
-[Click here to visit WebPage](https://govind2611.github.io/Student-Management/)
+[Click here to visit WebPage](https://govind2611.github.io/countdown/)
 
 I've created this project while learnging JavaScript and followed tutorial series from **AccioJob Bootcamp** And if you like this project then ADD a STAR ⭐️  to this project 👆
 
